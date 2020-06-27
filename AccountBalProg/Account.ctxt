@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Account
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Account\ here.\ Week\ 1\ Assignment\ ?1\ Answer\r\nfor\ PRG321\ -\ Jerrie\ Pineda\r\n\ @author\ (Courtnee)\r\n\ @version\ (6-26-2020)\r\n
+comment1.params=PrimBal
+comment1.target=Account(double)
+comment2.params=
+comment2.target=double\ getNewBal()
+comment3.params=interest
+comment3.target=void\ addInt(double)
+numComments=4
