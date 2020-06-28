@@ -4,9 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Wk 1 Assignment 
+PROJECT:Answers to question #1
+DATE: 6/25-28/2020
+AUTHORS:Courtnee Sullivan
+INSTRUCTOR:Jerrie Pineda
