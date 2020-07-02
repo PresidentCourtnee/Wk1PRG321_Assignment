@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Trip
+comment0.text=\r\n\ Project\:\ Week\ 1\ Assignment\ Answer\ to\ Question\ \#1\r\n\ Class\ PRG321\r\n\ Instructor\:\ Jerrie\ Pineda\r\n\ @author\ (Courtnee)\r\n\ @version\ (6-26-2020)\r\n\ This\ is\ my\ Trip\ class\ and\ is\ the\ requested\ main\ class\ for\ the\ assignment\r\n\ and\ provides\ the\ behaviors\r\n
+comment1.params=
+comment1.target=void\ tripInputs()
+comment2.params=
+comment2.target=double\ getMPG()
+comment3.params=
+comment3.target=double\ getcostPGal()
+comment4.params=MPG
+comment4.target=double\ setMPG(double)
+comment5.params=costPGal
+comment5.target=double\ setcostPGal(double)
+comment6.params=distance
+comment6.target=double\ distance(double)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
