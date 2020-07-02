@@ -1,13 +1,6 @@
 #BlueJ class context
 comment0.target=AccountTest
-comment0.text=\r\n\ The\ test\ class\ AccountTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Project\:\ Week\ 1\ Assignment\ Answer\ to\ Question\ \#1\r\n\ Class\ PRG321\r\n\ Instructor\:\ Jerrie\ Pineda\r\n\ @author\ (Courtnee)\r\n\ @version\ (6-26-2020)\r\n\ This\ is\ the\ test\ class\ for\ Account\r\n
 comment1.params=
-comment1.target=AccountTest()
-comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ AccountTest\r\n
-comment2.params=
-comment2.target=void\ setUp()
-comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
-comment3.params=
-comment3.target=void\ tearDown()
-comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
-numComments=4
+comment1.target=void\ testInterest()
+numComments=2
